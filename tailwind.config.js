@@ -7,7 +7,11 @@ module.exports = {
     './src/**/*.{vue,js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'number-box': 'url(\'/src/assets/dashboard/number_bg.svg\')',
+      },
+    },
   },
   corePlugins: {
     // https://tailwindcss.com/docs/preflight

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 8</title>
+    <defs>
+        <linearGradient x1="85.238181%" y1="86.486946%" x2="12.3194988%" y2="15.1384011%" id="linearGradient-1">
+            <stop stop-color="#94A8BD" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#606F80" stop-opacity="0" offset="19.8650025%"></stop>
+            <stop stop-color="#101822" stop-opacity="0" offset="50.2298132%"></stop>
+            <stop stop-color="#536170" stop-opacity="0" offset="75.4092796%"></stop>
+            <stop stop-color="#94A8BD" stop-opacity="0.299688593" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.3836304%" y1="14.911766%" x2="85.7722047%" y2="85.7054404%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.08" offset="0%"></stop>
+            <stop stop-color="#B1B7BA" stop-opacity="0" offset="21.4792528%"></stop>
+            <stop stop-color="#4B5861" stop-opacity="0" offset="49.6203952%"></stop>
+            <stop stop-color="#B4BABD" stop-opacity="0" offset="79.0679837%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.078316215" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="82.2437789%" cy="87.2729963%" fx="82.2437789%" fy="87.2729963%" r="104.596835%" id="radialGradient-3">
+            <stop stop-color="#5B93C0" stop-opacity="0.966865166" offset="0%"></stop>
+            <stop stop-color="#101822" stop-opacity="0" offset="55.4885623%"></stop>
+            <stop stop-color="#121D29" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="16.3836304%" y1="14.911766%" x2="85.7722047%" y2="85.7054404%" id="linearGradient-4">
+            <stop stop-color="#B7D4E6" stop-opacity="0.480222902" offset="0%"></stop>
+            <stop stop-color="#39515F" stop-opacity="0.842883832" offset="35.1867469%"></stop>
+            <stop stop-color="#B7D4E6" stop-opacity="0.613144668" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智能两轮车大数据运营平台" transform="translate(-61, -187)">
+            <g id="编组-8" transform="translate(61, 187)">
+                <circle id="椭圆形" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)" cx="60" cy="60" r="59.5"></circle>
+                <circle id="椭圆形备份-90" stroke="url(#linearGradient-4)" stroke-width="1.5" fill="url(#radialGradient-3)" cx="60" cy="60" r="48.25"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

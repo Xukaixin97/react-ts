@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="38px" viewBox="0 0 28 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 19</title>
+    <defs>
+        <linearGradient x1="50%" y1="-4.4408921e-14%" x2="50%" y2="97.1131498%" id="linearGradient-1">
+            <stop stop-color="#14516E" stop-opacity="0.523464816" offset="0%"></stop>
+            <stop stop-color="#43B5DD" stop-opacity="0.451622596" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.8147672%" y1="-16.6317632%" x2="83.8175305%" y2="115.849421%" id="linearGradient-2">
+            <stop stop-color="#33F4FF" offset="0%"></stop>
+            <stop stop-color="#4BE7FF" stop-opacity="0.319629589" offset="45.9248513%"></stop>
+            <stop stop-color="#68D7FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="28" height="38"></rect>
+        <filter x="-12.5%" y="-9.2%" width="125.0%" height="118.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.325971799   0 0 0 0 0.866107597   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智能两轮车大数据运营平台" transform="translate(-555, -160)">
+            <g id="编组-19" transform="translate(555, 160)">
+                <g id="矩形">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <rect stroke="url(#linearGradient-2)" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="27" height="37"></rect>
+                </g>
+                <rect id="矩形" fill="#55DFF8" opacity="0.137486049" x="0" y="0" width="28" height="19"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

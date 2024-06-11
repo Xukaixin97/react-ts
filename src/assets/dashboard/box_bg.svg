@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="230px" viewBox="0 0 370 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 12备份 2</title>
+    <defs>
+        <linearGradient x1="0.101070804%" y1="49.9965313%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#85949F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3C698F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.101070804%" y1="49.9965313%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#3C698F" offset="0%"></stop>
+            <stop stop-color="#85949F" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智能两轮车大数据运营平台" transform="translate(-24, -114)" fill-rule="nonzero">
+            <g id="编组-12备份-2" transform="translate(24, 114)">
+                <polygon id="路径-3" fill="#3C698F" points="3.04097025e-13 1 370 1 370 0 3.04097025e-13 0"></polygon>
+                <polygon id="路径-3备份" fill="#38E3FF" points="8.21120949e-13 1 12 1 12 0 8.21120949e-13 0"></polygon>
+                <polygon id="路径-3备份-2" fill="#38E3FF" points="358 1 370 1 370 0 358 0"></polygon>
+                <polygon id="路径-4" fill="#38E3FF" points="1.09090909 224 1.09090909 228.909091 6 228.909091 6 230 8.21120949e-13 230 8.21120949e-13 224"></polygon>
+                <polygon id="路径-4备份-2" fill="#38E3FF" points="175 230 195 230 195 229 175 229"></polygon>
+                <polygon id="路径-4备份-3" fill="url(#linearGradient-1)" points="30.5 230 150.5 230 150.5 229 30.5 229"></polygon>
+                <polygon id="路径-4备份-4" fill="url(#linearGradient-2)" points="219.5 230 339.5 230 339.5 229 219.5 229"></polygon>
+                <polygon id="路径-4备份" fill="#38E3FF" transform="translate(367, 227) scale(-1, 1) translate(-367, -227)" points="365.090909 224 365.090909 228.909091 370 228.909091 370 230 364 230 364 224"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

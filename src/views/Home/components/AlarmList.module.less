@@ -1,0 +1,32 @@
+.wrapper {
+
+
+  :global {
+
+    .ant-table {
+      background: transparent;
+      font-family: SourceHanSansCN-Regular;
+    }
+
+    .ant-table-thead {
+      background-image: linear-gradient(to bottom, #649BCA 0%, rgba(63, 232, 219, 0.00) 100%) !important;
+    }
+
+    .ant-table-cell {
+      background: transparent !important;
+      color: #fff !important;
+      border-bottom: 1px solid #3B546A !important;
+      padding: 8px 16px !important;
+    }
+
+    .ant-table-thead {
+      .ant-table-cell {
+        border-bottom: none !important;
+
+        &::before {
+          width: 0 !important;
+        }
+      }
+    }
+  }
+}

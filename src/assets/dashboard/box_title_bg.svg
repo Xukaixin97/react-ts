@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="34px" viewBox="0 0 196 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3备份 7</title>
+    <defs>
+        <linearGradient x1="-1.73472348e-15%" y1="49.8446835%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#55AAFF" stop-opacity="0.2" offset="18.2121344%"></stop>
+            <stop stop-color="#83AFFA" stop-opacity="0.197497815" offset="80.5589373%"></stop>
+            <stop stop-color="#B1C0DA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.73472348e-15%" y1="49.9998574%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#CFE7FF" stop-opacity="0.68673514" offset="18.2121344%"></stop>
+            <stop stop-color="#BBD4FF" stop-opacity="0.386800699" offset="79.029174%"></stop>
+            <stop stop-color="#B1C0DA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智能两轮车大数据运营平台" transform="translate(-24, -115)">
+            <g id="编组-3备份-7" transform="translate(24, 115)">
+                <g id="矩形">
+                    <rect fill="url(#linearGradient-1)" x="0" y="0" width="196" height="33"></rect>
+                    <rect id="矩形备份" fill="url(#linearGradient-2)" x="0" y="33" width="196" height="1"></rect>
+                </g>
+                <polygon id="三角形" fill="#38E3FF" transform="translate(12, 17) rotate(-270) translate(-12, -17)" points="12 14 17 20 7 20"></polygon>
+                <polygon id="路径" fill="#1BD6FF" fill-rule="nonzero" points="11.8082563 8.11302663 20.5873861 16.1130266 21.5607429 17 20.5873861 17.8869734 11.8082563 25.8869734 10.1917437 24.1130266 17.997 17 10.1917437 9.88697337"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
