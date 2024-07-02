@@ -7,7 +7,8 @@ import status_bg4 from '@/assets/dashboard/status_bg4.svg'
 export default function DeviceStatus() {
   return (
     <BoxWrapper title="设备状态">
-      <div className="p-9 relative  flex justify-between items-center ">
+
+      <div className="p-9 relative  flex justify-between items-center h-full ">
         <div
           className="flex flex-col items-center justify-center h-32 w-32"
           style={{
@@ -35,6 +36,7 @@ export default function DeviceStatus() {
           </div>
         </div>
       </div>
+
     </BoxWrapper>
   )
 }

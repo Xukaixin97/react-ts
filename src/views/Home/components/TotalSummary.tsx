@@ -3,7 +3,7 @@ import NumberBg from '@/assets/dashboard/number_bg.svg'
 function NumberBox({ number }: { number: number }) {
   return (
     <div
-      className="inline-block relative p-2 text-[#00FFEA] text-3xl mr-1 "
+      className="inline-block relative p-2 text-[#00FFEA] text-3xl mr-1 backdrop-blur-sm "
       style={{
         fontFamily: 'D-DIN',
         background: `url(${NumberBg}) center  no-repeat`,
@@ -16,9 +16,9 @@ function NumberBox({ number }: { number: number }) {
 
 function TotalSummary() {
   return (
-    <div className="flex-1 flex  m-auto pt-6 justify-evenly items-center   w-full ">
-      <div className="text-center">
-        <div className="text-xl mb-2 text-white">总设备数量</div>
+    <div className="flex  m-auto  justify-evenly items-start   w-full ">
+      <div className="text-center ">
+        <div className="text-xl mb-2 text-white backdrop-blur-sm inline-block rounded-sm">总设备数量</div>
         <div>
           <NumberBox number={6} />
           <NumberBox number={6} />
@@ -28,7 +28,7 @@ function TotalSummary() {
         </div>
       </div>
       <div className="text-center">
-        <div className="text-xl mb-2 text-white">总设备数量</div>
+        <div className="text-xl mb-2 text-white backdrop-blur-sm inline-block rounded-sm">总设备数量</div>
         <div>
           <NumberBox number={6} />
           <NumberBox number={6} />
@@ -38,7 +38,7 @@ function TotalSummary() {
         </div>
       </div>
       <div className="text-center">
-        <div className="text-xl mb-2 text-white">总设备数量</div>
+        <div className="text-xl mb-2 text-white backdrop-blur-sm inline-block rounded-sm">总设备数量</div>
         <div>
           <NumberBox number={6} />
           <NumberBox number={6} />

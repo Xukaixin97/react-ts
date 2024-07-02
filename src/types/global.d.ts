@@ -1,6 +1,7 @@
 // 在 d.ts 声明文件中，任何的 declare 默认就是 global 的了，所以你在 d.ts 文件中是不能出现 declare global 的。只有在模块文件中的定义，如果想要全局就使用 declare global
 declare global {
   const __DEV__: boolean
+  const BMapGL: BMapGL
 
   interface ViteEnv {
     VITE_PORT: number
@@ -19,4 +20,4 @@ declare global {
     VITE_GENERATE_UI: string
   }
 }
-export {}
+export { }

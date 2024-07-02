@@ -1,15 +1,12 @@
 .wrapper {
-
-
   :global {
-
     .ant-table {
       background: transparent;
       font-family: SourceHanSansCN-Regular;
     }
 
     .ant-table-thead {
-      background-image: linear-gradient(to bottom, #649BCA 0%, rgba(63, 232, 219, 0.00) 100%) !important;
+      // background-image: linear-gradient(to bottom, #649BCA 0%, rgb(63 232 219 / 0%) 100%) !important;
     }
 
     .ant-table-cell {
@@ -29,4 +26,14 @@
       }
     }
   }
+}
+
+.carContent {
+  position: relative;
+  border-image-source: url('@/assets/dashboard/dialog_bg.png');
+  border-image-slice: calc(100/898*100%) calc(100/1498*100%) calc(100/898*100%) calc(100/1498*100%) fill;
+  border-image-width: calc(100/898*100%) calc(100/1498*100%) calc(100/898*100%) calc(100/1498*100%);
+  width: 60%;
+  aspect-ratio: 1498/898;
+  overflow-y: hidden;
 }

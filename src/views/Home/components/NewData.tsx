@@ -105,6 +105,7 @@ export default function NewData() {
         series={series}
         type="area"
         width="370"
+        height="auto"
         className="mt-4"
       />
 

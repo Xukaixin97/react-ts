@@ -12,5 +12,17 @@ export default function CurrentTime() {
     setTime(moment().locale('zh-cn').format('YYYY-MM-DD HH:mm:ss dddd'))
   }, 1000)
 
-  return <div className="text-md absolute right-8 top-12 text-white">{time}</div>
+  return (
+    <div
+      className="text-2xl absolute right-12 top-[3.3rem] text-white"
+      style={{
+        background: 'linear-gradient(to bottom, #DDECF6, #6EC9FF)',
+        WebkitBackgroundClip: 'text',
+        color: 'transparent',
+        fontFamily: 'D-DIN-Bold',
+      }}
+    >
+      {time}
+    </div>
+  )
 }

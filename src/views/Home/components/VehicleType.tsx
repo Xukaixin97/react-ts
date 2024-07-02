@@ -56,7 +56,7 @@ export default function VehicleType() {
       show: true,
       curve: 'straight',
       lineCap: 'butt',
-      colors: ['#081f3e'],
+      colors: ['#113448'],
       width: 8,
       dashArray: 0,
     },

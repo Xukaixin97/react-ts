@@ -90,6 +90,7 @@ export default function DeviceStatus() {
         series={series}
         type="bar"
         width="370"
+      // className="flex items-center h-[90%]"
       />
     </BoxWrapper>
   )
